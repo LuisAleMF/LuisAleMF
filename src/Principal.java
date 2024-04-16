@@ -6,7 +6,8 @@
 public class Principal {
 
 	public static void main(String[] args) {
-		
+
+		Clase clase1 = new Clase();
 
 	}
 
